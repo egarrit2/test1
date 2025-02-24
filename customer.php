@@ -10,5 +10,6 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
     </head>
     <body>
         <h1>Customer Page</h1>
+        This change belongs to the branch by John
     </body>
 </html>
